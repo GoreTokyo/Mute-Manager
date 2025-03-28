@@ -1,0 +1,4 @@
+// resource.rc
+#include "resource.h"
+
+IDI_APP_ICON ICON "D:\Dev\Project\MuteManager\MuteManager\MuteManager.ico"
